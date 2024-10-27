@@ -1,0 +1,6 @@
+{
+    "dependencies": [
+        "jwt-cpp",
+        "cpprestsdk"
+    ]
+}
